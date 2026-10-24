@@ -1,0 +1,8 @@
+baseURL = 'https://jebenna.et/'
+languageCode = 'en-us'
+title = 'Jebenna'
+theme = 'hugo-bearblog'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
