@@ -6,7 +6,7 @@ weight = 1
 
 # Welcome :)
 
-Hi, I’m **Yohannes**, a tech enthusiast from Ethiopia who enjoys building simple but interesting things with code and figuring out how things work under the hood.
+Hi, I’m **Yohannes**, a tech enthusiast from **Ethiopia** who enjoys building simple but interesting things with code and figuring out how things work under the hood.
 
 I’m interested in **Android app security**, **websites**, **software**, and occasionally breaking things just to understand how they work. I also teach IT at an elementary school.
 
