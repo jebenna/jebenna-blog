@@ -54,5 +54,6 @@ That's what this blog is for.
 
 - [Github](https://github.com/jebenna)
 - [Twitter](https://x.com/j3benna)
+- [LinkedIn](https://www.linkedin.com/in/yohannesmolla/)
 - [Telegram](https://t.me/jebenna_logs)
 - [Email](mailto:jebenna@proton.me)
