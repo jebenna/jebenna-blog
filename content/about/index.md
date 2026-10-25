@@ -1,5 +1,4 @@
 +++
-date = '2026-10-25T11:10:10+44:00'
 title = "About"
 menu = "main"
 weight = 200
